@@ -29,18 +29,18 @@
 <img src="https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white">
 </div>
 
-
 <h3 align="center">📖 Studying 📖</h3>
 <div style="margin: 0 auto; text-align: center;" align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </div>
 
-<div align="center">
-        
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?2doh=anuraghazra)](https://github.com/2doh/github-readme-stats)
+<div style="margin-top : 10px;" align="center">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2doh&layout=compact)
+
 </div>
+
 
 
