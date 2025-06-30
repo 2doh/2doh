@@ -40,7 +40,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<div style="margin-top : 10px; " align="center">
+<div style="margin-top: 10px; " align="center">
+        
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2doh&layout=compact)
 </div>
 
