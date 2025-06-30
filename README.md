@@ -35,12 +35,15 @@
   <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </div>
 
-<div style="margin-top : 10px;" align="center">
+<div style="margin-top: 10px; " align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2doh&layout=compact)
-
 </div>
+
+<div style="margin-top : 10px; " align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2doh&layout=compact)
+</div>
+
 
 
 
