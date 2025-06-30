@@ -40,7 +40,7 @@
 <h3>📈 stats</h3>
 <div style="margin: 10 auto;">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![2doh's GitHub stats](https://github-readme-stats.vercel.app/api?username=2doh)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
