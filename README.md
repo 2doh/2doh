@@ -24,7 +24,9 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
-    <img src="https://img.shields.io/badge/lighthouse-F44B21.svg?style=for-the-badge&logo=lighthouse&logoColor=black" />
+</div>
+<div style="margin: 0 auto; text-align: center;" align="center">
+ <img src="https://img.shields.io/badge/lighthouse-F44B21.svg?style=for-the-badge&logo=lighthouse&logoColor=black" />
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white">
 <img src="https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=Eslint&logoColor=white">
 </div>
@@ -35,15 +37,13 @@
   <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </div>
 
-<div style="margin-top: 10px; " align="center">
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
-<div style="margin-top: 10px; " align="center">
         
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2doh&layout=compact)
-</div>
+
 
 
 
