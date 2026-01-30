@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=black" />
 </div>
 
-<h3>📈 stats</h3>
+<!-- <h3>📈 stats</h3>
 <div style="margin: 10 auto;">
 
 [![2doh's GitHub stats](https://github-readme-stats.vercel.app/api?username=2doh)](https://github.com/2doh/github-readme-stats)
@@ -47,4 +47,4 @@
 <div style="margin: 10 auto;">
         
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2doh&layout=compact)
-</div>
+</div> -->
