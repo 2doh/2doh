@@ -41,11 +41,10 @@
 <h3>📈 stats</h3>
 <div style="margin: 10 auto;">
 
-[![2doh's GitHub stats](https://github-readme-stats.vercel.app/api?username=2doh)](https://github.com/anuraghazra/github-readme-stats)
-
+[![2doh's GitHub stats](https://github-readme-stats.vercel.app/api?username=2doh)](https://github.com/2doh/github-readme-stats)
 </div>
 
 <div style="margin: 10 auto;">
         
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2doh&layout=compact)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2doh&layout=compact)
 </div>
